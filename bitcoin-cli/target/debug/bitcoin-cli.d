@@ -1,0 +1,1 @@
+/home/kami/Documents/Projects/Rust-Projects/bitcoin-p2p-cli/bitcoin-cli/target/debug/bitcoin-cli: /home/kami/Documents/Projects/Rust-Projects/bitcoin-p2p-cli/bitcoin-cli/src/config.rs /home/kami/Documents/Projects/Rust-Projects/bitcoin-p2p-cli/bitcoin-cli/src/main.rs /home/kami/Documents/Projects/Rust-Projects/bitcoin-p2p-cli/bitcoin-cli/src/peer.rs
